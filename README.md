@@ -77,7 +77,9 @@ Assuming 50,000 monthly visitors and £45 average order value:
 | P(positive revenue impact) | 98.5% |
 
 The credible interval quantifies uncertainty in the revenue estimate. Even the lower bound represents a meaningful positive return, supporting a clear decision to roll out the treatment.
+
 **Decision**: With a 98.5% probability of positive uplift and an expected monthly gain of approximately £48k, the treatment should be deployed.
+
 These results assume constant traffic and average order value, and should be re-evaluated if user behaviour or seasonality changes.
 
 ---
